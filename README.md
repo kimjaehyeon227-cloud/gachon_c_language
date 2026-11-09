@@ -1,2 +1,5 @@
-# gachon_c_language
-가천대 c언어 심화 수업
+# Welcome to semiconductor
+어서와 반도체는 처임이지??
+
+
+2277
