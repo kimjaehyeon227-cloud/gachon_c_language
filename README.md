@@ -229,5 +229,5 @@ CLI와 GUI는 같은 저장소와 변경 이력을 다룹니다. **명령어로 
 업로드된 수업 자료를 바탕으로 요약했습니다. 명령어 예제와 확인 기준은 복습을 위해 구성했습니다.
 
 1. `SoC100_1.pptx` · Session 1: Socio-economical Background of Semiconductor Design Development
-2. `SoC100_2(1).pptx` · Session 2: Basic Linux Command (Fast Track)
+2. `SoC100_2.pptx` · Session 2: Basic Linux Command (Fast Track)
 3. `SoC100_3.pptx` · Session 3: Git / GitHub Configuration
