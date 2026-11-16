@@ -1,6 +1,6 @@
 <div align="center">
 
-# SoC100 · Semiconductor Design Practice
+# Semiconductor Design Automative
 
 **반도체 설계 흐름을 이해하고, Linux에서 작업하며, Git으로 변경 이력을 관리하는 기초 실습**
 
@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-SoC 100 수업 자료를 바탕으로 정리한 반도체설계과 실습 기록입니다.
+Semiconductor Design Automative 주제로 진행한 실습을 SoC 100 수업 자료와 함께 정리한 기록입니다.
 
 </div>
 
@@ -17,7 +17,7 @@ SoC 100 수업 자료를 바탕으로 정리한 반도체설계과 실습 기록
 
 ## Overview
 
-반도체 설계에는 회로에 대한 이해와 함께 설계 파일을 다루는 작업 환경, 변경 이력을 관리하는 방법이 필요합니다. 이번 실습에서는 **설계 개념 → Linux 작업 환경 → Git 기반 버전 관리**를 연결해 학습했습니다.
+반도체 설계 자동화를 이해하고 활용하려면 설계 흐름에 대한 이해와 함께 설계 파일을 다루는 작업 환경, 변경 이력을 관리하는 방법이 필요합니다. 이번 실습에서는 **설계 개념 → Linux 작업 환경 → Git 기반 버전 관리**를 연결해 학습했습니다.
 
 | Session | 학습 주제 | 핵심 내용 |
 | :---: | --- | --- |
@@ -229,5 +229,5 @@ CLI와 GUI는 같은 저장소와 변경 이력을 다룹니다. **명령어로 
 업로드된 수업 자료를 바탕으로 요약했습니다. 명령어 예제와 확인 기준은 복습을 위해 구성했습니다.
 
 1. `SoC100_1.pptx` · Session 1: Socio-economical Background of Semiconductor Design Development
-2. `SoC100_2.pptx` · Session 2: Basic Linux Command (Fast Track)
+2. `SoC100_2(1).pptx` · Session 2: Basic Linux Command (Fast Track)
 3. `SoC100_3.pptx` · Session 3: Git / GitHub Configuration
